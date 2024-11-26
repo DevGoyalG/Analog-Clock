@@ -17,7 +17,13 @@ Check out the live demo of the Analog Clock with Dark & Light Mode [here](https:
 ## 📸 Project Preview
 Here's a sneak peek of the Analog Clock with Dark & Light Mode application:
 
-![Project Preview](assets/Palindrome-Checker.png)
+Light Mode
+
+![Project Preview](assets/Analog-Clock-Light.png)
+
+Dark Mode
+
+![Project Preview](assets/Analog-Clock-Dark.png)
 
 ## 🚀 Features
 - A real-time analog clock with moving hour, minute, and second hands.
