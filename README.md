@@ -12,7 +12,7 @@
 A simple project that displays a real-time analog clock with the ability to switch between dark and light themes. The clock shows hours, minutes, and seconds using rotating hands, and you can toggle between two different color schemes for the clock's background and hands.
 
 ## 🌐 Live Demo
-Check out the live demo of the Analog Clock with Dark & Light Mode [here](https://github.com/DevGoyalG).
+Check out the live demo of the Analog Clock with Dark & Light Mode [here](https://clock-view.netlify.app/).
 
 ## 📸 Project Preview
 Here's a sneak peek of the Analog Clock with Dark & Light Mode application:
